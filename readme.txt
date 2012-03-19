@@ -16,7 +16,7 @@ automatically fixed upon submission of the new post.
 
 == Installation ==
 
-1. Upload `fixcaps` folder to the `/wp-content/plugins/` directory
+1. Upload `fixcaps` folder to the `/wp-content/plugins/` directory.
 2. Activate the "Fix Post Title Capitalization" plugin through the 'Plugins' menu in WordPress.
 3. Your post title capitalization will automatically be corrected upon activation.
 
