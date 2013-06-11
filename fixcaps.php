@@ -10,7 +10,7 @@ License:GPL2
 */
 ?>
 <?php
-/*  Copyright 2012  Alexander C. Block  (email : ablock@pizzli.com)
+/*  Copyright 2013  Alexander C. Block  (email : ablock@pizzli.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
