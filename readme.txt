@@ -2,8 +2,8 @@
 Contributors: pizzli
 Tags: posttitle, title, capitalization, caps
 Requires at least: 2.0.2
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.2
 
 Automatically fixes the capitalization in post titles. 
 
@@ -34,6 +34,10 @@ An answer to that question.
 
 = 1.0 =
 * Initial Development
+
+= 1.2 =
+* Verified compatability with WordPress 3.5.1 
+* Patched accent bug
 
 == Upgrade Notice ==
 
