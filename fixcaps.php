@@ -31,11 +31,6 @@ function lowertitle($title)  {
 $title = strtolower($title);
 return $title;
 }
-$x=0;
-do{
-echo "HELLO";
-}
-while ($x < 10000);
 
 function fixtitle($title) {
 $smallwordsarray = array( 'of','a','the','and','an','or','nor','but','is','if','then','else','when', 'at','from','by','on','off','for','in','out','over','to','into','with' ); 
