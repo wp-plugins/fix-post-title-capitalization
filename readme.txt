@@ -3,7 +3,7 @@ Contributors: pizzli
 Donate link: http://pizzli.com/donate.php
 Tags: posttitle, title, capitalization, caps
 Requires at least: 2.0.2
-Tested up to: 3.5.1
+Tested up to: 3.5.2
 Stable tag: 1.3
 
 Automatically fixes the capitalization in post titles. 
