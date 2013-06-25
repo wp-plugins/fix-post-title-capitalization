@@ -39,7 +39,19 @@ An answer to that question.
 * Verified compatability with WordPress 3.5.1 
 * Patched accent bug
 
+= 1.3 =
+* Verified compatability with WordPress 3.5.2
+* Updated Donate Link
+
 == Upgrade Notice ==
 
 = 1.0 =
-Initial Development
+* Initial Development
+
+= 1.2 =
+* Verified compatability with WordPress 3.5.1 
+* Patched accent bug
+
+= 1.3 =
+* Verified compatability with WordPress 3.5.2
+* Updated Donate Link
