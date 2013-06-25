@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/plugins/fix-post-title-capitalization/
 Description: Automatically fixes the capitalization in post titles. 
 Version: 1.3
 Author: Alexander C. Block
-Author URI: http://www.pizzli.com/donate.php
+Author URI: http://www.pizzli.com/
 License:GPL2
 */
 ?>
